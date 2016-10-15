@@ -1,4 +1,3 @@
-
 public class PocimaAtaque extends Pocima {
    // PocimaAtaque pocimaAtaque = new PocimaAtaque();  
     public double recibirAtaque(double ataque){

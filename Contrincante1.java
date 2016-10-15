@@ -63,6 +63,7 @@ public class Contrincante1 extends Pocima{
     }
     
     public void cargarPocimas(){
+        //Metemos al array las pocimas de cada contrincante
         pocimas.add(pocimaAtaque); 
         pocimas.add(pocimaAtaque);
         pocimas.add(pocimaDefensa);

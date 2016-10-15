@@ -12,8 +12,9 @@ public class Yugi{
         // TODO code application logic here
         Scanner teclado = new Scanner(System.in);
         System.out.println("Juego de dos contrincantes\n");
-        System.out.println("Introduce tu nombre: ");
+        System.out.println("Introduce tu nombre contricante: ");
         String nombre = teclado.nextLine();
+
 
     }         
 }
