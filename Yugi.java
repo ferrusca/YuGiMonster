@@ -10,8 +10,10 @@ public class Yugi extends Contrincante1{
     
     public static void main(String[] args) {
       
+        Torneo user1 = new Torneo();
 
-        usuario();
+        user1.usuario();
+        
 
 
     }         
