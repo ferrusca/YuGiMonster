@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Yugi{
+public class Yugi extends Contrincante1{
 
     /**
      * @param args the command line arguments
@@ -9,11 +9,9 @@ public class Yugi{
 
     
     public static void main(String[] args) {
-        // TODO code application logic here
-        Scanner teclado = new Scanner(System.in);
-        System.out.println("Juego de dos contrincantes\n");
-        System.out.println("Introduce tu nombre contricante: ");
-        String nombre = teclado.nextLine();
+      
+
+        usuario();
 
 
     }         
